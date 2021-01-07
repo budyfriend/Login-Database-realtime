@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "282455818678",
+    "firebase_url": "https://login-database-realtime.firebaseio.com",
+    "project_id": "login-database-realtime",
+    "storage_bucket": "login-database-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282455818678:android:20f8fd5fbc15ce1e3c8117",
+        "android_client_info": {
+          "package_name": "com.budyfriend.logindatabase_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282455818678-6kpk2il40f22h7l72stbc9jtgjeigbe3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budyfriend.logindatabase_realtime",
+            "certificate_hash": "965563056dd5c18b45812a8d37841dff74d85f8f"
+          }
+        },
+        {
+          "client_id": "282455818678-ddpp9arbr3sj0b58gm0ci9nhuljmm7hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByPP5EbmahNH1ZWFbBk0zlIT2a67G9Xww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282455818678-ddpp9arbr3sj0b58gm0ci9nhuljmm7hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
